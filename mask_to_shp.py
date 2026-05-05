@@ -145,4 +145,4 @@ plt.savefig(vis_path, dpi=300, bbox_inches="tight")
 
 plt.close()
 
-print("Visualization saved at:", vis_path)
+print("Visualization saved at = ", vis_path)
